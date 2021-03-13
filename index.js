@@ -6,4 +6,4 @@ var folder = path.join(__dirname, 'public');
 
 app.use(express.static(folder));
 
-app.listen(5000);
+app.listen(3000);
